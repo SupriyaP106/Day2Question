@@ -1,0 +1,11 @@
+sample input:
+1
+11
+
+sample output:
+1
+2
+3
+5
+7
+11
