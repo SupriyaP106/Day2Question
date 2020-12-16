@@ -1,0 +1,7 @@
+E:\Supriya\LTI Training\DevOps Git\Question2\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+E:\Supriya\LTI Training\DevOps Git\Question2\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+E:\Supriya\LTI Training\DevOps Git\Question2\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+E:\Supriya\LTI Training\DevOps Git\Question2\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache
+E:\Supriya\LTI Training\DevOps Git\Question2\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+E:\Supriya\LTI Training\DevOps Git\Question2\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+E:\Supriya\LTI Training\DevOps Git\Question2\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
