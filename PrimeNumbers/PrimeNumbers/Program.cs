@@ -36,7 +36,7 @@ namespace PrimeNumbers
                         Console.WriteLine(i);
                 }
             }
-
+            Console.WriteLine("Changes done by Susmitha Janarthanan");
 
         }
     }
